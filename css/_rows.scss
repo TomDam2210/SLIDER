@@ -1,0 +1,19 @@
+@import './mixin';
+
+.slider-outer {
+    @include size(960px,410px);
+    position: relative;
+    .top-row {
+        @include rows();
+        @include size(1230px,200px);
+        left: -120px;
+    
+    }
+    .bottom-row {
+        @include rows();
+        @include size(1080px,200px);
+        margin-top: 10px;
+        left: -130px;
+        bottom: 0px;
+    } 
+}

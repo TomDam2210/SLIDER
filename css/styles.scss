@@ -1,0 +1,11 @@
+@import './arrows';
+@import './rows';
+@import './text';
+@import './images';
+@import './mixin';
+
+.container {
+    display: flex;
+    width: 1550px;
+    margin: 160px 0px;
+}

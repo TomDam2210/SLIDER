@@ -1,0 +1,65 @@
+@import './mixin';
+
+.image1 {
+    @include size(260px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+        @include size(260px,200px)
+    } 
+}
+.image2 {
+    @include size(120px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+    @include size(120px,200px)
+    }
+}
+.image3 {
+    @include size(180px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+    @include size(180px,200px)
+    }
+}
+.image4 {
+    @include size(220px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+    @include size(220px,200px)
+    }
+}
+.image5 {
+    @include size(260px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+    @include size(260px,200px)
+    }
+}
+.image6 {
+    @include size(120px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+    @include size(120px,200px)
+    }
+}
+.image7 {
+    @include size(180px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+    @include size(180px,200px)
+    }
+}
+.image8 {
+    @include size(180px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+    @include size(180px,200px)
+    }
+}
+.image9 {
+    @include size(220px,200px);
+    margin: 0px 10px 0px 0px;
+    img{
+    @include size(220px,200px)
+    }
+}

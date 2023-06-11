@@ -1,0 +1,187 @@
+.arrows {
+  display: block;
+  width: 60px;
+  height: 130px;
+  position: absolute;
+  right: 0px;
+  bottom: 70px;
+}
+.arrows .arrow-left {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 5px;
+  position: absolute;
+  top: 0px;
+}
+.arrows .arrow-left img {
+  width: 60px;
+  height: 60px;
+}
+.arrows .arrow-left:hover {
+  cursor: pointer;
+}
+.arrows .arrow-right {
+  width: 60px;
+  height: 60px;
+  margin-top: 5px;
+  position: absolute;
+  bottom: 0px;
+}
+.arrows .arrow-right img {
+  width: 60px;
+  height: 60px;
+}
+.arrows .arrow-right:hover {
+  cursor: pointer;
+}
+
+.slider-outer {
+  width: 960px;
+  height: 410px;
+  position: relative;
+}
+.slider-outer .top-row {
+  display: flex;
+  position: absolute;
+  width: 1230px;
+  height: 200px;
+  left: -120px;
+}
+.slider-outer .bottom-row {
+  display: flex;
+  position: absolute;
+  width: 1080px;
+  height: 200px;
+  margin-top: 10px;
+  left: -130px;
+  bottom: 0px;
+}
+
+.text {
+  width: 590px;
+  height: 296px;
+  position: relative;
+}
+.text .naslov {
+  width: 300px;
+  height: 120px;
+  font-family: "SourceSansPro";
+  font-size: 32px;
+  line-height: 38px;
+  align-items: flex-end;
+  letter-spacing: -0.2px;
+  color: #134880;
+  position: absolute;
+  top: 0px;
+  left: 20px;
+}
+.text .parag {
+  width: 300px;
+  height: 156px;
+  font-family: "SourceSansPro";
+  font-size: 18px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.2px;
+  color: #484A4C;
+  position: absolute;
+  left: 20px;
+  bottom: 0px;
+}
+
+.image1 {
+  width: 260px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image1 img {
+  width: 260px;
+  height: 200px;
+}
+
+.image2 {
+  width: 120px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image2 img {
+  width: 120px;
+  height: 200px;
+}
+
+.image3 {
+  width: 180px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image3 img {
+  width: 180px;
+  height: 200px;
+}
+
+.image4 {
+  width: 220px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image4 img {
+  width: 220px;
+  height: 200px;
+}
+
+.image5 {
+  width: 260px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image5 img {
+  width: 260px;
+  height: 200px;
+}
+
+.image6 {
+  width: 120px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image6 img {
+  width: 120px;
+  height: 200px;
+}
+
+.image7 {
+  width: 180px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image7 img {
+  width: 180px;
+  height: 200px;
+}
+
+.image8 {
+  width: 180px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image8 img {
+  width: 180px;
+  height: 200px;
+}
+
+.image9 {
+  width: 220px;
+  height: 200px;
+  margin: 0px 10px 0px 0px;
+}
+.image9 img {
+  width: 220px;
+  height: 200px;
+}
+
+.container {
+  display: flex;
+  width: 1550px;
+  margin: 160px 0px;
+}/*# sourceMappingURL=styles.css.map */

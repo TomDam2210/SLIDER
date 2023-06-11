@@ -1,0 +1,9 @@
+@mixin size($wid, $hei) {
+    width: $wid;
+    height: $hei;
+}
+
+@mixin rows {
+    display: flex;
+    position: absolute;
+}
